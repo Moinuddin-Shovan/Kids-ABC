@@ -1,6 +1,6 @@
 # kids_alphabet
 
-A new Flutter project.
+A Drag and Drop based flutter project for kids. Kids drag the letter over images that represents the letter. Finally Sound effects and animations are added.
 
 ## Getting Started
 
